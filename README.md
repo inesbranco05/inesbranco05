@@ -47,3 +47,4 @@ AI-based scenario description system combining computer vision, LLMs, and text-t
 
 📍 Viana do Castelo, Portugal
 📧 [inesbranco.05@outlook.com](mailto:inesbranco.05@outlook.com)
+
