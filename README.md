@@ -7,32 +7,41 @@ I'm interested in **fullstack development, digital products, Artificial Intellig
 ### Technologies
 
 **Languages**
+
 Python · JavaScript · C#
 
 **Frontend & Mobile**
+
 React · Flutter
 
 **Backend**
+
 Node.js · Express · ASP.NET Core · APIs
 
 **Databases**
+
 PostgreSQL · MongoDB
 
 **AI & Computer Vision**
+
 LLMs · YOLOv8 · TTS
 
 **Tools**
+
 Git · Docker
 
 ### Featured Projects
 
 **ChainGuard**
+
 Full-stack web application for validating blockchain transactions across different networks, with authentication, API/RPC integrations, data persistence, validation history, and statistics.
 
 **BioRegisto**
+
 Mobile and back-office solution for species registration and management, using Flutter, ASP.NET Core, PostgreSQL, and Entity Framework Core.
 
 **SceneNarrator**
+
 AI-based scenario description system combining computer vision, LLMs, and text-to-speech technologies.
 
 ### Areas of Interest
@@ -46,5 +55,6 @@ AI-based scenario description system combining computer vision, LLMs, and text-t
 ### Contact
 
 📍 Viana do Castelo, Portugal
+
 📧 [inesbranco.05@outlook.com](mailto:inesbranco.05@outlook.com)
 
