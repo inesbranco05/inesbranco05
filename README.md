@@ -24,6 +24,17 @@ LLMs · YOLOv8 · TTS
 **Tools**
 Git · Docker
 
+### Featured Projects
+
+**ChainGuard**
+Full-stack web application for validating blockchain transactions across different networks, with authentication, API/RPC integrations, data persistence, validation history, and statistics.
+
+**BioRegisto**
+Mobile and back-office solution for species registration and management, using Flutter, ASP.NET Core, PostgreSQL, and Entity Framework Core.
+
+**SceneNarrator**
+AI-based scenario description system combining computer vision, LLMs, and text-to-speech technologies.
+
 ### Areas of Interest
 
 * Fullstack Development
