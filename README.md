@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Inês Branco 👋
 
-<!--
-**inesbranco05/inesbranco05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate from the Polytechnic Institute of Viana do Castelo, Portugal.
 
-Here are some ideas to get you started:
+I'm interested in **fullstack development, digital products, Artificial Intelligence, cybersecurity, and data analysis**. I enjoy building applications, working with APIs and databases, exploring AI-based solutions, and learning about security and data-driven technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+**Languages**
+Python · JavaScript · C#
+
+**Frontend & Mobile**
+React · Flutter
+
+**Backend**
+Node.js · Express · ASP.NET Core · APIs
+
+**Databases**
+PostgreSQL · MongoDB
+
+**AI & Computer Vision**
+LLMs · YOLOv8 · TTS
+
+**Tools**
+Git · Docker
+
+### Areas of Interest
+
+* Fullstack Development
+* Artificial Intelligence
+* Cybersecurity
+* Data Analysis
+* Digital Product Development
+
+### Contact
+
+📍 Viana do Castelo, Portugal
+📧 [inesbranco.05@outlook.com](mailto:inesbranco.05@outlook.com)
